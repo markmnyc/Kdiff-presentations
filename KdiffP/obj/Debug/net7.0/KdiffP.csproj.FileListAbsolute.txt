@@ -1,0 +1,15 @@
+C:\Development\Presentations\Kdiff-presentations\KdiffP\bin\Debug\net7.0\KdiffP.exe
+C:\Development\Presentations\Kdiff-presentations\KdiffP\bin\Debug\net7.0\KdiffP.deps.json
+C:\Development\Presentations\Kdiff-presentations\KdiffP\bin\Debug\net7.0\KdiffP.runtimeconfig.json
+C:\Development\Presentations\Kdiff-presentations\KdiffP\bin\Debug\net7.0\KdiffP.dll
+C:\Development\Presentations\Kdiff-presentations\KdiffP\bin\Debug\net7.0\KdiffP.pdb
+C:\Development\Presentations\Kdiff-presentations\KdiffP\obj\Debug\net7.0\KdiffP.csproj.AssemblyReference.cache
+C:\Development\Presentations\Kdiff-presentations\KdiffP\obj\Debug\net7.0\KdiffP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Presentations\Kdiff-presentations\KdiffP\obj\Debug\net7.0\KdiffP.AssemblyInfoInputs.cache
+C:\Development\Presentations\Kdiff-presentations\KdiffP\obj\Debug\net7.0\KdiffP.AssemblyInfo.cs
+C:\Development\Presentations\Kdiff-presentations\KdiffP\obj\Debug\net7.0\KdiffP.csproj.CoreCompileInputs.cache
+C:\Development\Presentations\Kdiff-presentations\KdiffP\obj\Debug\net7.0\KdiffP.dll
+C:\Development\Presentations\Kdiff-presentations\KdiffP\obj\Debug\net7.0\refint\KdiffP.dll
+C:\Development\Presentations\Kdiff-presentations\KdiffP\obj\Debug\net7.0\KdiffP.pdb
+C:\Development\Presentations\Kdiff-presentations\KdiffP\obj\Debug\net7.0\KdiffP.genruntimeconfig.cache
+C:\Development\Presentations\Kdiff-presentations\KdiffP\obj\Debug\net7.0\ref\KdiffP.dll

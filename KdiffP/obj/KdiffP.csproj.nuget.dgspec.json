@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\F4878043\\source\\repos\\KdiffP\\KdiffP\\KdiffP.csproj": {}
+    "C:\\Development\\Presentations\\Kdiff-presentations\\KdiffP\\KdiffP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\F4878043\\source\\repos\\KdiffP\\KdiffP\\KdiffP.csproj": {
+    "C:\\Development\\Presentations\\Kdiff-presentations\\KdiffP\\KdiffP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\F4878043\\source\\repos\\KdiffP\\KdiffP\\KdiffP.csproj",
+        "projectUniqueName": "C:\\Development\\Presentations\\Kdiff-presentations\\KdiffP\\KdiffP.csproj",
         "projectName": "KdiffP",
-        "projectPath": "C:\\Users\\F4878043\\source\\repos\\KdiffP\\KdiffP\\KdiffP.csproj",
+        "projectPath": "C:\\Development\\Presentations\\Kdiff-presentations\\KdiffP\\KdiffP.csproj",
         "packagesPath": "C:\\Users\\F4878043\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\F4878043\\source\\repos\\KdiffP\\KdiffP\\obj\\",
+        "outputPath": "C:\\Development\\Presentations\\Kdiff-presentations\\KdiffP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\F4878043\\AppData\\Roaming\\NuGet\\NuGet.Config",
